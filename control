@@ -1,7 +1,7 @@
 Package: com.kayfam.darkmaps
 Name: DarkMaps
 Depends: mobilesubstrate
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Any MKMapView's will have Dark Mode enabled
 Maintainer: KayFam
